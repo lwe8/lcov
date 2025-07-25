@@ -3,6 +3,7 @@ node_modules
 a.ts
 test.md
 lcov.ts
+lcov.info
 # Build directories
 dist 
 docs

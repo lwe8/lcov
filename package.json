@@ -1,0 +1,38 @@
+{
+  "name": "@lwe8/lcov",
+  "version": "0.0.1",
+  "description": "Lcov parser",
+  "scripts": {
+    "build": "tshy",
+    "format": "biome format --write ./",
+    "lint": "biome check --write ./",
+    "check": "biome check ./",
+    "test:coverage": "tsx --test --experimental-test-coverage --test-reporter=lcov --test-reporter-destination=tests/lcov.info --test-update-snapshots",
+    "test:local": "tsx --test --test-update-snapshots"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwe8/lcov.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "Pho Thin Mg <phothinmg@disroot.org>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lwe8/lcov/issues"
+  },
+  "homepage": "https://github.com/lwe8/lcov#readme",
+  "devDependencies": {
+    "@biomejs/biome": "^2.1.2",
+    "@types/node": "^24.1.0",
+    "tshy": "^3.0.2",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  },
+  "tshy": {
+    "exports": {
+      ".": "./src/index.ts"
+    },
+    "selfLink": false
+  }
+}

@@ -1,0 +1,22 @@
+# from .gitignore 
+node_modules 
+## Local Opts
+a.ts
+test.md
+lcov.ts
+## Build directories
+docs
+.tshy
+# .gitignore
+src
+biome.json
+package-lock.json
+tsconfig.json 
+# Workflows and editor
+.github 
+.vscode
+
+# Docs dir
+documents
+tests
+scripts

@@ -1,0 +1,763 @@
+{
+  "sourceFile": {
+    "path": "src/index.ts",
+    "name": "index.ts"
+  },
+  "lines": {
+    "found": 126,
+    "hit": 123,
+    "covered": 97.6,
+    "da": [
+      {
+        "lineNumber": 1,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 2,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 3,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 4,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 5,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 6,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 7,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 8,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 9,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 10,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 11,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 12,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 13,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 14,
+        "executionCount": 9
+      },
+      {
+        "lineNumber": 15,
+        "executionCount": 9
+      },
+      {
+        "lineNumber": 16,
+        "executionCount": 9
+      },
+      {
+        "lineNumber": 17,
+        "executionCount": 12
+      },
+      {
+        "lineNumber": 18,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 19,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 20,
+        "executionCount": 17
+      },
+      {
+        "lineNumber": 21,
+        "executionCount": 17
+      },
+      {
+        "lineNumber": 22,
+        "executionCount": 17
+      },
+      {
+        "lineNumber": 23,
+        "executionCount": 17
+      },
+      {
+        "lineNumber": 24,
+        "executionCount": 17
+      },
+      {
+        "lineNumber": 25,
+        "executionCount": 17
+      },
+      {
+        "lineNumber": 26,
+        "executionCount": 17
+      },
+      {
+        "lineNumber": 27,
+        "executionCount": 17
+      },
+      {
+        "lineNumber": 28,
+        "executionCount": 10
+      },
+      {
+        "lineNumber": 29,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 30,
+        "executionCount": 3
+      },
+      {
+        "lineNumber": 31,
+        "executionCount": 3
+      },
+      {
+        "lineNumber": 32,
+        "executionCount": 11
+      },
+      {
+        "lineNumber": 33,
+        "executionCount": 11
+      },
+      {
+        "lineNumber": 34,
+        "executionCount": 11
+      },
+      {
+        "lineNumber": 35,
+        "executionCount": 17
+      },
+      {
+        "lineNumber": 36,
+        "executionCount": 12
+      },
+      {
+        "lineNumber": 37,
+        "executionCount": 11
+      },
+      {
+        "lineNumber": 38,
+        "executionCount": 11
+      },
+      {
+        "lineNumber": 39,
+        "executionCount": 11
+      },
+      {
+        "lineNumber": 40,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 41,
+        "executionCount": 0
+      },
+      {
+        "lineNumber": 42,
+        "executionCount": 0
+      },
+      {
+        "lineNumber": 43,
+        "executionCount": 0
+      },
+      {
+        "lineNumber": 44,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 45,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 46,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 47,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 48,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 49,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 50,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 51,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 52,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 53,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 54,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 55,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 56,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 57,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 58,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 59,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 60,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 61,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 62,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 63,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 64,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 65,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 66,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 67,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 68,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 69,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 70,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 71,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 72,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 73,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 74,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 75,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 76,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 77,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 78,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 79,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 80,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 81,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 82,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 83,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 84,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 85,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 86,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 87,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 88,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 89,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 90,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 91,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 92,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 93,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 94,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 95,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 96,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 97,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 98,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 99,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 100,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 101,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 102,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 103,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 104,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 105,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 106,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 107,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 108,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 109,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 110,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 111,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 112,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 113,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 114,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 115,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 116,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 117,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 118,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 119,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 120,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 121,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 122,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 123,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 124,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 125,
+        "executionCount": 1
+      },
+      {
+        "lineNumber": 126,
+        "executionCount": 1
+      }
+    ]
+  },
+  "functions": {
+    "found": 10,
+    "hit": 9,
+    "covered": 90,
+    "fnda": [
+      {
+        "name": "__name",
+        "executionCount": 1
+      },
+      {
+        "name": "<instance_members_initializer>",
+        "executionCount": 9
+      },
+      {
+        "name": "<static_initializer>",
+        "executionCount": 1
+      },
+      {
+        "name": "MultiRegExp",
+        "executionCount": 12
+      },
+      {
+        "name": "firstMatch",
+        "executionCount": 4
+      },
+      {
+        "name": "findMatch",
+        "executionCount": 17
+      },
+      {
+        "name": "allMatches",
+        "executionCount": 3
+      },
+      {
+        "name": "exec",
+        "executionCount": 17
+      },
+      {
+        "name": "test",
+        "executionCount": 0
+      },
+      {
+        "name": "getMatched",
+        "executionCount": 1
+      }
+    ],
+    "fn": [
+      {
+        "name": "__name",
+        "lineNumber": 2
+      },
+      {
+        "name": "<instance_members_initializer>",
+        "lineNumber": 12
+      },
+      {
+        "name": "<static_initializer>",
+        "lineNumber": 12
+      },
+      {
+        "name": "MultiRegExp",
+        "lineNumber": 13
+      },
+      {
+        "name": "firstMatch",
+        "lineNumber": 18
+      },
+      {
+        "name": "findMatch",
+        "lineNumber": 19
+      },
+      {
+        "name": "allMatches",
+        "lineNumber": 29
+      },
+      {
+        "name": "exec",
+        "lineNumber": 31
+      },
+      {
+        "name": "test",
+        "lineNumber": 40
+      },
+      {
+        "name": "getMatched",
+        "lineNumber": 44
+      }
+    ]
+  },
+  "branches": {
+    "found": 25,
+    "hit": 24,
+    "covered": 96,
+    "brda": [
+      {
+        "lineNumber": 1,
+        "blockNumber": 0,
+        "branchNumber": 0,
+        "taken": 1
+      },
+      {
+        "lineNumber": 2,
+        "blockNumber": 1,
+        "branchNumber": 0,
+        "taken": 1
+      },
+      {
+        "lineNumber": 12,
+        "blockNumber": 2,
+        "branchNumber": 0,
+        "taken": 9
+      },
+      {
+        "lineNumber": 12,
+        "blockNumber": 3,
+        "branchNumber": 0,
+        "taken": 1
+      },
+      {
+        "lineNumber": 13,
+        "blockNumber": 4,
+        "branchNumber": 0,
+        "taken": 9
+      },
+      {
+        "lineNumber": 16,
+        "blockNumber": 5,
+        "branchNumber": 0,
+        "taken": 12
+      },
+      {
+        "lineNumber": 18,
+        "blockNumber": 6,
+        "branchNumber": 0,
+        "taken": 4
+      },
+      {
+        "lineNumber": 19,
+        "blockNumber": 7,
+        "branchNumber": 0,
+        "taken": 17
+      },
+      {
+        "lineNumber": 25,
+        "blockNumber": 8,
+        "branchNumber": 0,
+        "taken": 6
+      },
+      {
+        "lineNumber": 25,
+        "blockNumber": 9,
+        "branchNumber": 0,
+        "taken": 11
+      },
+      {
+        "lineNumber": 26,
+        "blockNumber": 10,
+        "branchNumber": 0,
+        "taken": 11
+      },
+      {
+        "lineNumber": 27,
+        "blockNumber": 11,
+        "branchNumber": 0,
+        "taken": 1
+      },
+      {
+        "lineNumber": 27,
+        "blockNumber": 12,
+        "branchNumber": 0,
+        "taken": 10
+      },
+      {
+        "lineNumber": 29,
+        "blockNumber": 13,
+        "branchNumber": 0,
+        "taken": 3
+      },
+      {
+        "lineNumber": 31,
+        "blockNumber": 14,
+        "branchNumber": 0,
+        "taken": 11
+      },
+      {
+        "lineNumber": 34,
+        "blockNumber": 15,
+        "branchNumber": 0,
+        "taken": 17
+      },
+      {
+        "lineNumber": 35,
+        "blockNumber": 16,
+        "branchNumber": 0,
+        "taken": 12
+      },
+      {
+        "lineNumber": 36,
+        "blockNumber": 17,
+        "branchNumber": 0,
+        "taken": 2
+      },
+      {
+        "lineNumber": 37,
+        "blockNumber": 18,
+        "branchNumber": 0,
+        "taken": 11
+      },
+      {
+        "lineNumber": 38,
+        "blockNumber": 19,
+        "branchNumber": 0,
+        "taken": 1
+      },
+      {
+        "lineNumber": 39,
+        "blockNumber": 20,
+        "branchNumber": 0,
+        "taken": 10
+      },
+      {
+        "lineNumber": 39,
+        "blockNumber": 21,
+        "branchNumber": 0,
+        "taken": 15
+      },
+      {
+        "lineNumber": 40,
+        "blockNumber": 22,
+        "branchNumber": 0,
+        "taken": 10
+      },
+      {
+        "lineNumber": 44,
+        "blockNumber": 23,
+        "branchNumber": 0,
+        "taken": 1
+      },
+      {
+        "lineNumber": 53,
+        "blockNumber": 24,
+        "branchNumber": 0,
+        "taken": 0
+      }
+    ]
+  }
+}
